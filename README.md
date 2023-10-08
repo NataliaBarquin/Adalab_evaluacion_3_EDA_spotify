@@ -1,4 +1,4 @@
-# DA-promoE-Mod2-Evaluacion-sprint1-NataliaBarquin
+# Evaluación numpy y pandas (EDA Spotify)
 
 Este repositorio incluye la Evaluación 1 del Módulo 2 del Bootcamp de Data Analytics.
 Esta evaluación se ha dividido en dos bloques:
